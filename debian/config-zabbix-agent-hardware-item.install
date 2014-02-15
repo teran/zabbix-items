@@ -1,0 +1,2 @@
+install -d                                                         $(DESTDIR)/etc/zabbix/zabbix_agentd.conf.d
+install -m644       $(CURDIR)/src/hardware-item/hardware.conf      $(DESTDIR)/etc/zabbix/zabbix_agentd.conf.d/

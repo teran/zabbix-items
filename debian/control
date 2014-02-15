@@ -5,3 +5,11 @@ Maintainer: Igor Shishkin <me@teran.ru>
 Vcs-Git: git://github.com/teran/zabbix-items.git
 Vcs-Browser: https://github.com/teran/zabbix-items
 
+Package: config-zabbix-agent-hardware-item
+Section: extra
+Priority: optional
+Architecture: all
+Depends: gawk | mawk, coreutils, sed
+Description: Hardware inventory item for zabbix agent
+ .
+
