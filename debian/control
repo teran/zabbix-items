@@ -1,0 +1,7 @@
+Source: zabbix-items
+Section: extra
+Priority: optional
+Maintainer: Igor Shishkin <me@teran.ru>
+Vcs-Git: git://github.com/teran/zabbix-items.git
+Vcs-Browser: https://github.com/teran/zabbix-items
+
